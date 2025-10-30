@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "demo-PhotoApp"
+rootProject.name = "photoapp"
 include(":app")
  
